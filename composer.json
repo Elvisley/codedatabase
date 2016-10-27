@@ -1,11 +1,17 @@
 {
     "name": "elvis/database",
+    "description": "Repository Pattern Library based in Laravel",
+    "license": "MIT",
+    "keywords": [
+    	"Laravel","Repository","Criteria"
+    ],
     "authors": [
         {
             "name": "Elvisley Souza",
             "email": "elvis.s.p90@gmail.com"
         }
     ],
+    "homepage": "https://laravel.com/",
     "require": {
 		"php": ">=5.5.9",
         "illuminate/database" : "~5.2"
